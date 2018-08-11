@@ -3,7 +3,8 @@ A neural network created to model visual search results from the Vision Lab at U
 
 Buetti et al. (2016) reported that, contrary to what was previously thought, systematic variability exists in efficient ("popout") search. Reaction times increased logarithmically as a function of set size, suggesting that Stage 1 of visual search is exhaustive.
 
-This neural network is an attempt to model the cognitive processes reported in papers from our lab (see below).
+
+This neural network is an attempt to model the cognitive processes reported in papers from our lab:
 
 
 Buetti, S., Cronin, D. A., Madison, A. M., Wang, Z., & Lleras, A. (2016). Towards a better understanding of parallel visual processing in human vision: Evidence for exhaustive analysis of visual information. Journal of Experimental Psychology: General, 145(6), 672.
